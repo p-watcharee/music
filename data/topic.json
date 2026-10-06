@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://raw.githubusercontent.com/p-watcharee/music/main/asset/images/01_view.png",
+    "image": "https://raw.githubusercontent.com/p-watcharee/music/main/assets/images/01_view.png",
     "topic": "View Component",
     "detail": "View เป็น Component พื้นฐานของ React Native",
     "num_view": 120,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "image": "https://raw.githubusercontent.com/p-watcharee/music/main/images/02_text.png",
+    "image": "https://raw.githubusercontent.com/p-watcharee/music/main/assets/images/02_text.png",
     "topic": "Text Component",
     "detail": "Text ใช้สำหรับแสดงข้อความใน React Native",
     "num_view": 98,
