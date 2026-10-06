@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://raw.githubusercontent.com/p-watcharee/music/main/images/01_view.png",
+    "image": "https://raw.githubusercontent.com/p-watcharee/music/main/asset/images/01_view.png",
     "topic": "View Component",
     "detail": "View เป็น Component พื้นฐานของ React Native",
     "num_view": 120,
