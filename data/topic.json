@@ -15,39 +15,4 @@
     "num_view": 98,
     "num_like": 27
   },
-  {
-    "id": 3,
-    "image": "https://raw.githubusercontent.com/p-watcharee/music/main/assets/images/02_text.png",
-    "topic": "Text Component33",
-    "detail": "Text ใช้สำหรับแสดงข้อความใน React Native",
-    "num_view": 98,
-    "num_like": 27
-  },
-  
-  {
-    "id": 4,
-    "image": "https://raw.githubusercontent.com/p-watcharee/music/main/assets/images/02_text.png",
-    "topic": "Text Component44",
-    "detail": "Text ใช้สำหรับแสดงข้อความใน React Native",
-    "num_view": 98,
-    "num_like": 27
-  },
-  
-  {
-    "id": 5,
-    "image": "https://raw.githubusercontent.com/p-watcharee/music/main/assets/images/02_text.png",
-    "topic": "Text Component55",
-    "detail": "Text ใช้สำหรับแสดงข้อความใน React Native",
-    "num_view": 98,
-    "num_like": 27
-  },
-  
-  {
-    "id": 6,
-    "image": "https://raw.githubusercontent.com/p-watcharee/music/main/assets/images/02_text.png",
-    "topic": "Text Component66",
-    "detail": "Text ใช้สำหรับแสดงข้อความใน React Native",
-    "num_view": 98,
-    "num_like": 27
-  },
-]
+  ]
